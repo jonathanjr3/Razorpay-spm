@@ -1,3 +1,3 @@
 # Razorpay
 
-A description of this package.
+Added support for swift packager manager to the original razorpay-pod.
