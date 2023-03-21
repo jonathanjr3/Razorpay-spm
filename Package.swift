@@ -19,7 +19,7 @@ let package = Package(
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(name: "Razorpay",
-                      url: "https://github.com/razorpay/razorpay-pod/releases/download/1.3.0/Razorpay.xcframework.zip",
-                      checksum: "201467c34f9ed59a91375bbb1ee9b944de18e1ea60ca4e284d313a85867ef6fc")
+                      url: "https://github.com/razorpay/razorpay-pod/releases/download/1.3.1/Razorpay.xcframework.zip",
+                      checksum: "d59509cbeec7ca2ef194cdf3e6f6d3e265d3c30d56f7a1e276545a2e9f5dba30")
     ]
 )
