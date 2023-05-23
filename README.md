@@ -14,4 +14,4 @@ Go to Xcode -> File -> Add Packages and then paste this link in the repo url sea
 Refer this video on how to distribute xcframework as a swift package [**Distribute binary frameworks as Swift packages**](https://developer.apple.com/wwdc20/10147)
 
 ## License
-razorpay-pod is free software, and may be redistributed under the terms specified in the [LICENSE.razorpay] file.
+razorpay-pod is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/jonathanjr3/Razorpay-spm/blob/main/LICENSE.razorpay) file.
