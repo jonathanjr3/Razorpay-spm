@@ -1,6 +1,7 @@
 # Razorpay Swift Package
 
-Added support for swift packager manager to [**razorpay-pod**](https://github.com/razorpay/razorpay-pod).
+## Note
+This package has been archived since [**razorpay-pod**](https://github.com/razorpay/razorpay-pod) has officially added swift package support.
 
 ## Requirements
 * [iOS 13.0](https://wikipedia.org/wiki/IOS_13) or later.
